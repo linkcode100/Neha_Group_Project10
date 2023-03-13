@@ -39,7 +39,8 @@ We are only analysing ypu are eligible for that particular loan or not.
 
 ## Authors
 
-- [Neha Pote](https://www.github.com/octokatherine)
+- [Neha Pote](https://github.com/Neha142000/LoanBuzz)
+- [Anchal Hirapure](https://github.com/anchal576/LoanBuzz)
 
 
 
